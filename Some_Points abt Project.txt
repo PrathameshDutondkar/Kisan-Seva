@@ -1,0 +1,5 @@
+Some Description -
+
+in this application we are trying to Solve Some basic problems of Farmers
+and as well as Buyers we are building application that there is no 
+middle-man needed In between Buyers and farmers communication and requirements

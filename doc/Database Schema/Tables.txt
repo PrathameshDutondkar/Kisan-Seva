@@ -1,0 +1,50 @@
+Name of tables:
+1. Buyers
+2. Farmers
+3. Admin
+4. Orders
+5. Products
+
+Table of Farmers (Input taken from farmers for our system)
+1.Farmer id
+2.Name
+3.Contact
+4.Address
+5.Username
+6.Password
+
+
+Table for Buyers (Input’s Taken From wholesaler)
+1.Buyers id
+2.Name
+3.Contact
+4.Address
+5.Login Id 
+6.password
+
+Table for Admin
+1.Admin-Id
+2.Name
+3.E-mail
+4.Username
+5.Password
+
+
+Table of Orders-
+1.Order Id 
+2.Buyer’s id
+3.Farmer id
+4.Total Amount
+5.Status
+6.Quantity
+
+
+
+Table for products
+1.Product id 
+2.Farmer id
+3.Product Name
+4.Product Description
+5.Expected Price
+6.Quantity
+
